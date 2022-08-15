@@ -11,7 +11,7 @@ function aleatorio(min, max) {
         } else if (jugada == 3) {
         resultado = "Tijera ✂️"
         } else {
-        resultado = "MAL ELEGIDO"
+        resultado = "MAL ELEGIDO:; elige un numero entre 1 y 3"
         }
         return resultado
   }
