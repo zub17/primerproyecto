@@ -1,1 +1,4 @@
-alert("hola  que hace XD")
+alert("hola XD")
+
+let  botonMascotaJugador = document.getElementById ("boton-mascota")
+botonMascotaJugador.addEventListener("click" , seleccionarMascotaJugador)
